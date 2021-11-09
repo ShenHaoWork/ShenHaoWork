@@ -1,7 +1,11 @@
-### Hi there 👋
+### 你好，世界 👋  
+🌱 学习中 ...
+
+<!--![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenHaoCode&show_icons=true)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenHaoCode&layout=compact)
 
 <!--
-**ShenHaoWork/ShenHaoWork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShenHaoCode/ShenHaoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
